@@ -2,5 +2,5 @@
 
 ## Projects:
 
-[DistroWiki](/Distro-Wiki)
+[DistroWiki](/Distro-Wiki)<br>
 [GentooInstaller](/gentoo-quick-installer)
